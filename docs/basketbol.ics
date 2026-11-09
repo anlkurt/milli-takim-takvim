@@ -1,0 +1,152 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//milli-takim-takvim//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Türkiye Basketbol (A Erkek)
+X-WR-TIMEZONE:Europe/Istanbul
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:fiba-127023@milli-takim-takvim
+DTSTAMP:20261109T204133Z
+DTSTART:20251127T180000Z
+DTEND:20251127T200000Z
+SUMMARY:🏀 Türkiye 93-71 Bosna Hersek
+DESCRIPTION:FIBA 2027 Dünya Kupası Avrupa Elemeleri\n1. tur\, C Grubu\nKa
+ ynak: FIBA
+LOCATION:Turkcell Basketball Development Centre\, Istanbul
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-127022@milli-takim-takvim
+DTSTAMP:20261109T204133Z
+DTSTART:20251130T160000Z
+DTEND:20251130T180000Z
+SUMMARY:🏀 İsviçre 60-85 Türkiye
+DESCRIPTION:FIBA 2027 Dünya Kupası Avrupa Elemeleri\n1. tur\, C Grubu\nKa
+ ynak: FIBA
+LOCATION:Salle Saint Leonard\, Fribourg
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-127020@milli-takim-takvim
+DTSTAMP:20261109T204133Z
+DTSTART:20260227T180000Z
+DTEND:20260227T200000Z
+SUMMARY:🏀 Sırbistan 78-82 Türkiye
+DESCRIPTION:FIBA 2027 Dünya Kupası Avrupa Elemeleri\n1. tur\, C Grubu\nKa
+ ynak: FIBA
+LOCATION:Aleksandar Nikolic Hall\, Belgrade
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-127017@milli-takim-takvim
+DTSTAMP:20261109T204133Z
+DTSTART:20260302T180000Z
+DTEND:20260302T200000Z
+SUMMARY:🏀 Türkiye 94-86 Sırbistan
+DESCRIPTION:FIBA 2027 Dünya Kupası Avrupa Elemeleri\n1. tur\, C Grubu\nKa
+ ynak: FIBA
+LOCATION:Turkcell Basketball Development Centre\, Istanbul
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-127014@milli-takim-takvim
+DTSTAMP:20261109T204133Z
+DTSTART:20260702T180000Z
+DTEND:20260702T200000Z
+SUMMARY:🏀 Bosna Hersek 75-82 Türkiye
+DESCRIPTION:FIBA 2027 Dünya Kupası Avrupa Elemeleri\n1. tur\, C Grubu\nKa
+ ynak: FIBA
+LOCATION:Arena "Husejin Smajlovic"\, Zenica
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-127013@milli-takim-takvim
+DTSTAMP:20261109T204133Z
+DTSTART:20260706T160000Z
+DTEND:20260706T180000Z
+SUMMARY:🏀 Türkiye 95-72 İsviçre
+DESCRIPTION:FIBA 2027 Dünya Kupası Avrupa Elemeleri\n1. tur\, C Grubu\nKa
+ ynak: FIBA
+LOCATION:Sinan Erdem Dome\, Istanbul
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-127134@milli-takim-takvim
+DTSTAMP:20261109T204133Z
+DTSTART:20260828T180000Z
+DTEND:20260828T200000Z
+SUMMARY:🏀 Türkiye 94-66 Litvanya
+DESCRIPTION:FIBA 2027 Dünya Kupası Avrupa Elemeleri\n2. tur\, J Grubu\nKa
+ ynak: FIBA
+LOCATION:Turkcell Basketball Development Centre\, Istanbul
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-127137@milli-takim-takvim
+DTSTAMP:20261109T204133Z
+DTSTART:20260831T193000Z
+DTEND:20260831T213000Z
+SUMMARY:🏀 İzlanda 73-110 Türkiye
+DESCRIPTION:FIBA 2027 Dünya Kupası Avrupa Elemeleri\n2. tur\, J Grubu\nKa
+ ynak: FIBA
+LOCATION:Laugardalshöll\, Reykjavik
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-127140@milli-takim-takvim
+DTSTAMP:20261109T204133Z
+DTSTART:20261126T190000Z
+DTEND:20261126T210000Z
+SUMMARY:🏀 İtalya - Türkiye
+DESCRIPTION:FIBA 2027 Dünya Kupası Avrupa Elemeleri\n2. tur\, J Grubu\nKa
+ ynak: FIBA
+LOCATION:Palaeur\, Rome
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏀 İtalya - Türkiye 1 saat sonra başlıyor
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏀 İtalya - Türkiye 5 dakika sonra başlıyor
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-127150@milli-takim-takvim
+DTSTAMP:20261109T204133Z
+DTSTART:20261129T160000Z
+DTEND:20261129T180000Z
+SUMMARY:🏀 Türkiye - İzlanda
+DESCRIPTION:FIBA 2027 Dünya Kupası Avrupa Elemeleri\n2. tur\, J Grubu\nKa
+ ynak: FIBA
+LOCATION:Turkcell Basketball Development Centre\, Istanbul
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏀 Türkiye - İzlanda 1 saat sonra başlıyor
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏀 Türkiye - İzlanda 5 dakika sonra başlıyor
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-127146@milli-takim-takvim
+DTSTAMP:20261109T204133Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+TRANSP:TRANSPARENT
+SUMMARY:🏀 Litvanya - Türkiye (saat belli değil)
+DESCRIPTION:FIBA 2027 Dünya Kupası Avrupa Elemeleri\n2. tur\, J Grubu\nMa
+ ç saati henüz açıklanmadı\; açıklanınca otomatik güncellenir.\nKa
+ ynak: FIBA
+END:VEVENT
+BEGIN:VEVENT
+UID:fiba-127149@milli-takim-takvim
+DTSTAMP:20261109T204133Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+TRANSP:TRANSPARENT
+SUMMARY:🏀 Türkiye - İtalya (saat belli değil)
+DESCRIPTION:FIBA 2027 Dünya Kupası Avrupa Elemeleri\n2. tur\, J Grubu\nMa
+ ç saati henüz açıklanmadı\; açıklanınca otomatik güncellenir.\nKa
+ ynak: FIBA
+END:VEVENT
+END:VCALENDAR
